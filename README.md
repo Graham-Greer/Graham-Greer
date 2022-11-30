@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Business Dashboard**
 
-- 🌱 I’m currently learning **React, Web 3.0, Tailwind CSS**
+- 🌱 I’m currently learning **React, Web 3.0, Tailwind CSS & Framer Motion**
 
 - 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
 
