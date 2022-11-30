@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React, Web 3.0, Tailwind CSS & Framer Motion**
 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
+- 👨‍💻 All of my projects are available at [www.grahamgreer.co.uk](www.grahamgreer.co.uk)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
-- 📫 How to reach me **grahamgreer.pt@gmail.com**
+- 📫 How to reach me **contact@grahamgreer.co.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
